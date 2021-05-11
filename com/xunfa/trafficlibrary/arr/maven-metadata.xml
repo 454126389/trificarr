@@ -3,11 +3,12 @@
   <groupId>com.xunfa.trafficlibrary</groupId>
   <artifactId>arr</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>1.0.1</release>
     <versions>
       <version>null</version>
       <version>1.0.0</version>
+      <version>1.0.1</version>
     </versions>
-    <lastUpdated>20210511021859</lastUpdated>
+    <lastUpdated>20210511032312</lastUpdated>
   </versioning>
 </metadata>
